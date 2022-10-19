@@ -1,6 +1,9 @@
 # Titanic-Group-Hierarchies
 Classifying titanic passenger survival based on family and ticket survival hierarchies and passenger class
 
+This repository is primarily focused on feature engineering, and does not necessarily demonstrate an efficient sklearn workflow of a problem.
+For a more standard sklearn example, checkout the sample_sklearn_workflow repository https://github.com/ChrisDarley/sample_sklearn_workflow.
+
 This notebook is inspired by the following kaggle notebook:
 https://www.kaggle.com/cdeotte/titanic-using-name-only-0-81818
 
