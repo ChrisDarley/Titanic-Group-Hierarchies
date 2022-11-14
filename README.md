@@ -29,4 +29,5 @@ too few examples to have the rules amount to anything other than educated guesse
 methodology may have been more effective.
 
 I use sklearn pipeline functionality in the beginning of the notebook, but later abandon it in favor of using pandas only for 
-simpler column name functionality.
+simpler column name functionality.  In general, I could have been putting sequential operations into pandas pipelines, but this 
+model was more focused on exploration of the dataset, so I was changing things around too much to want to do that.
